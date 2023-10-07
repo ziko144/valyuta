@@ -1,0 +1,2 @@
+# valyuta
+Global page
